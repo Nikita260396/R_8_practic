@@ -1,1 +1,8 @@
-
+normrasp(300,12,2,0,15)
+normrasp(300,12,2,0,15)
+normrasp(300,332,4,4,45)
+normrasp(300,15,2,1,15)
+normrasp(300,16,5,0,15)
+normrasp(300,12,6,0,15)
+normrasp(300,12,7,0,15)
+normrasp(300,12,88,0,15)
