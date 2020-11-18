@@ -1,3 +1,4 @@
+source(normrasp.R)
 normrasp(300,12,2,0,15)
 normrasp(300,12,2,0,15)
 normrasp(300,332,4,4,45)
