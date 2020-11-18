@@ -1,5 +1,5 @@
 normrasp<-function(n,mean_x,sd_x,mean_e,sd_e)
-{##размер выборки, среднее и дисперсия x,среднее и дисперсия e.
+{## n - размер выборки, mean_x,sd_x - среднее и дисперсия x,mean_e,sd_e - среднее и дисперсия e.
   set.seed(6)
   x<-rnorm(n,mean_x,sd_x)
   e<-rnorm(n,mean_e,sd_e)
